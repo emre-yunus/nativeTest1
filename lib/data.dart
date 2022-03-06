@@ -5,9 +5,9 @@ List<Lyric> lyrics = [
   Lyric(
       title: '8 Circle',
       artist: 'Bon Iver',
-      type: Genre.folktronica,
+      genre: Genre.folktronica,
       imageName: '22.jpg',
-      text: 'Philosophize your figure
+      text: '''Philosophize your figure
 What I have and haven't held
 You called and I came, stayed tall through it all
 Fall and fixture just the same thing
@@ -45,14 +45,14 @@ Wouldn't I be last to see? (Carry off and up your seize)
 From the door 'til we die
 Deny with love my labor (carry up with love a long)
 Was it all I could find (we live outside)
-Keep waking up high'
+Keep waking up high'''
     ),
   Lyric(
     title: 'I won't run from it',
     artist: 'Big Red Machine',
-    type: Genre.electronic,
+    genre: Genre.electronic,
     imageName: 'bigred.jpg',
-    text: 'Now, look at that road
+    text: '''Now, look at that road
 Look at that climb
 When it's throwing in a nickel or get out a dime
 Too patterned, too close
@@ -88,14 +88,14 @@ So when the cause is dead on arrival
 And you coulda shoulda woulda for free
 I wouldn't have forced it on the minute
 It's a very hard thing to have grief
-Ah give it a minute, we're dancing in it',
+Ah give it a minute, we're dancing in it''',
   ),
   Lyric(
     title: 'Nothing Arrived',
     artist: 'Villagers',
-    type: Genre.indiefolk,
+    genre: Genre.indiefolk,
     imageName: 'awayland.jpg',
-    text: 'Savanna scatters and the seabird sings
+    text: '''Savanna scatters and the seabird sings
 So why should we fear what travel brings?
 What were we hoping to get out of this?
 Some kind of momentary bliss?
@@ -126,7 +126,7 @@ I waited for something
 And something died
 So I waited for nothing
 And nothing arrived
-(Nothing arrived)',
+(Nothing arrived)''',
   )
 ]
 */
