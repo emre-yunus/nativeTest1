@@ -49,7 +49,7 @@ Was it all I could find (we live outside)
 Keep waking up high'''
     ),
   Lyric(
-    title: 'I won't run from it',
+    title: 'I won''t run from it',
     artist: 'Big Red Machine',
     genre: Genre.electronic,
     imageName: 'bigred.jpg',
