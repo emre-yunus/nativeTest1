@@ -24,7 +24,7 @@ class AppTree extends StatelessWidget {
           child: GestureDetector(
             child: Container(
               child: Center(
-                  child: Text("Main", textScaleFactor: 4,)
+                  child: Text("main", textScaleFactor: 4,)
               ),
               decoration: BoxDecoration(border: Border.all(color: Colors.black54), color: Colors.white70)
             ),
@@ -36,7 +36,7 @@ class AppTree extends StatelessWidget {
           child: GestureDetector(
             child: Container(
                 child: Center(
-                    child: Text("Sub", textScaleFactor: 4,)
+                    child: Text("sub", textScaleFactor: 4,)
                 ),
                 decoration: BoxDecoration(border: Border.all(color: Colors.black54), color: Colors.white70)
             ),
