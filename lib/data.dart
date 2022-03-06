@@ -7,6 +7,7 @@ List<Lyric> lyrics = [
       artist: 'Bon Iver',
       genre: Genre.folktronica,
       imageName: '22.jpg',
+      author: 'Justin Vernon',
       text: '''Philosophize your figure
 What I have and haven't held
 You called and I came, stayed tall through it all
@@ -95,6 +96,7 @@ Ah give it a minute, we're dancing in it''',
     artist: 'Villagers',
     genre: Genre.indiefolk,
     imageName: 'awayland.jpg',
+    author: 'Conor O''Brien',
     text: '''Savanna scatters and the seabird sings
 So why should we fear what travel brings?
 What were we hoping to get out of this?
